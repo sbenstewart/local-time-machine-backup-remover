@@ -7,8 +7,11 @@ Download the zip file, extract the folder, chmod into it the folder.
 <br>
 Run the following command which will ask your password as removing backups requires the sudo access.
 <br>
+<br>
 `sudo ./time-machine-backup-remover.command`
 <br>
+<br>
 If you find this helpful share with other MacOS users in need of this piece if code.
+<br>
 <br>
 <b>Have a great day :)</b>
