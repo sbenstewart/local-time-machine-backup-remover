@@ -13,4 +13,5 @@ Run the following command which will ask your password as removing backups requi
 <br>
 If you find this helpful share with other MacOS users in need of this piece if code.
 <br>
+<br>
 <b>Have a great day :)</b>
